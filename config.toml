@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Hi, I'm Elma"
 theme = "hallo"
 publishDir = "docs"
+environment = "production"
 
 [Author]
     name = "Elma"
