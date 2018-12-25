@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.elmakaba.github.io"
 languageCode = "en-us"
 title = "Hi, I'm Elma"
 theme = "hallo"

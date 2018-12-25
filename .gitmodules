@@ -1,7 +1,0 @@
-[submodule "themes/hallo"]
-	path = themes/hallo
-	url = https://github.com/EmielH/hallo-hugo.git
-[submodule "public"]
-	path = public
-	url = git@github.com:elmakaba/elmakaba.github.io.git
-	branch = master
